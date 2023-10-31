@@ -1,0 +1,23 @@
+<body>
+    <h1>Lugares Turísticos na Europa</h1>
+
+    <h2>Paris, França</h2>
+    <p>Paris é a capital da França e é conhecida como a "Cidade do Amor". Alguns dos pontos turísticos mais famosos incluem a Torre Eiffel, o Museu do Louvre e a Catedral de Notre-Dame.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Eiffel_Tower_Marsfeld_Paris.jpg" alt="Torre Eiffel em Paris">
+
+    <h2>Roma, Itália</h2>
+    <p>Roma é uma cidade rica em história, com o Coliseu, o Fórum Romano e o Vaticano como principais atrações. Não deixe de experimentar a deliciosa culinária italiana.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg" alt="Coliseu em Roma">
+
+    <h2>Barcelona, Espanha</h2>
+    <p>Barcelona é conhecida por sua arquitetura única, com destaque para a Sagrada Família e o Parque Güell, criados pelo arquiteto Antoni Gaudí.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Barcelona_skyline.jpg" alt="Sagrada Família em Barcelona">
+
+    <h2>Praga, República Tcheca</h2>
+    <p>Praga é uma cidade encantadora com um centro histórico bem preservado. O Castelo de Praga e a Ponte Carlos são pontos turísticos imperdíveis.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prague_collage_2018.jpg" alt="Castelo de Praga">
+
+    <h2>Atenas, Grécia</h2>
+    <p>Atenas é o berço da democracia e da civilização ocidental. Visite a Acrópole e o Partenon para explorar sua rica herança histórica.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Acropolis_from_Mount_Lycabettus_on_October_5%2C_2019_%28cropped%29.jpg" alt="Acrópole em Atenas">
+</body>
